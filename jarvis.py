@@ -87,18 +87,6 @@ if __name__ == "__main__" :
             speak(random.choice(l))
             quit()
 
-        elif " father of your boss" in query :
-            speak('mister sarfaraj ansari is your father, with the dashing personality ')
-
-        elif 'mother of your boss' in query:
-            speak('gulista ansari is your mother such a beautiful lady with a kind heart')
-
-        elif 'my mother' in query :
-            speak('gulista ansari is your mother such a beautiful lady with a kind heart')
-
-        elif 'my father' in query :
-            speak('mister sarfaraj ansari is your father, with the dashing personality ')
-
         elif 'who is your boss' in query :
             l = ['aman ansari is my boss', " you are the one im here to serve always", 'the person whome i love the most,  i care about him the most and that is you']
             speak(random.choice(l))
