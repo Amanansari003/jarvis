@@ -1,6 +1,5 @@
 import datetime
 import random
-from urllib.parse import SplitResult
 import speech_recognition as sr
 import pyttsx3 
 import wikipedia
