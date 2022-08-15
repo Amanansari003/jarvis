@@ -126,6 +126,4 @@ if __name__ == "__main__" :
         elif "who is your father" in query :
             l = ['aman,  ansari is the one who designed me', 'my one and only hero, aman ansari'] 
             speak(random.choice(l))
-        else :
-            speak('i am really sorry to dissapoint you,  this is not in my knowledge')
             
